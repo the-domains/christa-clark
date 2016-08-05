@@ -1,0 +1,28 @@
+name: Christa Clark
+favicon: null
+layout_spectrum: 0.23562680394388735
+typography_spectrum: 0.567175499163568
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.12530808174051344
+  lightness: 0.4083678051829338
+  saturation: 0.6879778727889061
+  rhythmicContrast: 0.26594274141825736
+purpose: []
