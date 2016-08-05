@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Christa Clark]]></title>
+        <description><![CDATA[Christa Clark]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Aug 2016 15:52:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Christa's love story with the tech industry began while teaching financial literacy to kids after school, and conceptualizing an app to drive home this topic in everyday life. From there Christa built her brainchild: Heartworthy Co., a web design agency with the mission of rescuing professionals from outdated websites and poor user experiences. In this next chapter, she is now lead UX/UI designer for Skunkworx Lab. Responsive web design is her religion, and in her spare time spread the good word of Code to willing converts.</p>]]></description>
+            <link>undefinedchristas-love-story-with-the-tech-industry-began-while-teac/index.html</link>
+            <guid isPermaLink="false">5c470a1c-47ca-4587-946c-d50180b3d56f</guid>
+            <pubDate>Fri, 05 Aug 2016 15:52:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
